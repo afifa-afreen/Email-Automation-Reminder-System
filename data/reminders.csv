@@ -1,0 +1,3 @@
+title,email,scheduled_at,template_name
+Course follow-up,aarav@example.com,2030-01-15T10:00:00,follow_up
+Team meeting,mira@example.com,2030-01-16T09:30:00,meeting

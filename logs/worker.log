@@ -1,0 +1,2 @@
+2026-11-24 15:14:34,609 INFO email-worker: Worker started; interval=15s dry_run=True
+2026-11-24 15:14:35,110 INFO email-worker: message_id=1 status=sent recipient=aarav@example.com
